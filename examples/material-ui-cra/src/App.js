@@ -11,7 +11,7 @@ function Copyright() {
       variant="body2"
       align="center"
       sx={{
-        color: 'text.secondary',
+        color: 'text.secondary', 
       }}
     >
       {'Copyright © '}
